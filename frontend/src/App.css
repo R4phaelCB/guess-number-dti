@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+}
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 200px;
+}
+button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+.feedback {
+  margin-top: 20px;
+  font-weight: bold;
+}
